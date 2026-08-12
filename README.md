@@ -86,7 +86,7 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[IPL Data Analysis]([https://github.com/anston-jp](https://github.com/anston-jp/ipl-match-and-player-performance-analytics))** | Advanced Excel, Power Query, Pivot Charts | Cleaned & harmonized **630+ matches / 150K+ delivery rows**; built a full performance dashboard (Top 10 Batsmen, MoM Awards — Gayle led with **18**) across **10 seasons** and **35+ stadiums** |
+| **[IPL Data Analysis](https://github.com/anston-jp/ipl-match-and-player-performance-analytics)** | Advanced Excel, Power Query, Pivot Charts | Cleaned & harmonized **630+ matches / 150K+ delivery rows**; built a full performance dashboard (Top 10 Batsmen, MoM Awards — Gayle led with **18**) across **10 seasons** and **35+ stadiums** |
 | **[Sales Performance Analytics](https://github.com/anston-jp)** | Excel, PostgreSQL, Power BI | Architected a relational PostgreSQL DB from cleaned Excel data; used `COALESCE`, `CASE WHEN`, and scalar functions across **15+ columns**; visualized monthly sales trends in Power BI |
 | **[Superstore Retail Analytics](https://github.com/anston-jp)** | PostgreSQL, Power BI | Applied window functions (`RANK`, `DENSE_RANK`, `OVER`), CTEs & subqueries for profit/margin analysis; managed full DB lifecycle with schema changes and SQL Views |
 
