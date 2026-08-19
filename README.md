@@ -92,7 +92,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech, Civil Engineering | Puducherry Technological University | Jan 2021 – May 2025 | CGPA: 6.62 |
+| B.Tech, Civil Engineering | Puducherry Technological University | Jan 2021 – May 2025 | CGPA: 7.0 |
 | Higher Secondary (12th) | Bethlahem Matric Hr Sec School, Kanyakumari | Jun 2019 – Apr 2020 | 76% |
 | Secondary (10th) | Bethlahem Matric Hr Sec School, Kanyakumari | Jun 2017 – Apr 2018 | 84% |
 
